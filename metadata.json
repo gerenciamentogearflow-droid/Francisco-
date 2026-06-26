@@ -1,0 +1,6 @@
+{
+  "name": "Francisco App",
+  "description": "App para oficina de motos do Francisco emitir certificados de serviços.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
